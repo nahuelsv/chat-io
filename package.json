@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Chat made with express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelsv/chat-io.git"
+  },
+  "author": "Nahuel silvera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nahuelsv/chat-io/issues"
+  },
+  "homepage": "https://github.com/nahuelsv/chat-io#readme"
+}
