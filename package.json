@@ -4,6 +4,7 @@
   "description": "Chat made with express and socket.io",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/nahuelsv/chat-io/issues"
   },
-  "homepage": "https://github.com/nahuelsv/chat-io#readme"
+  "homepage": "https://github.com/nahuelsv/chat-io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
