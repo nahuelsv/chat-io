@@ -3,4 +3,4 @@
 
 
 
-For study purpuse
+For study purpose
